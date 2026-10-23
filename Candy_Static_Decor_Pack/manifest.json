@@ -1,0 +1,444 @@
+{
+  "library_summary": {
+    "bones": 0,
+    "meshParts": 45,
+    "scripts": 0,
+    "resources": [
+      "rbxassetid://106478607437803",
+      "rbxassetid://108767726400720",
+      "rbxassetid://109229728519381",
+      "rbxassetid://112539128135320",
+      "rbxassetid://113821460358248",
+      "rbxassetid://114279823772999",
+      "rbxassetid://114929216364233",
+      "rbxassetid://121679101277046",
+      "rbxassetid://126667883979192",
+      "rbxassetid://129620721288197",
+      "rbxassetid://134931381380083",
+      "rbxassetid://139182150750551",
+      "rbxassetid://71038626334709",
+      "rbxassetid://71925531212944",
+      "rbxassetid://72117633528521",
+      "rbxassetid://72649046990663",
+      "rbxassetid://75056561884235",
+      "rbxassetid://76553343720594",
+      "rbxassetid://77760468497764",
+      "rbxassetid://79843709323667",
+      "rbxassetid://79987410797776",
+      "rbxassetid://80131931647656",
+      "rbxassetid://83694456933435",
+      "rbxassetid://84868530503287",
+      "rbxassetid://88486576617820",
+      "rbxassetid://91653529837961",
+      "rbxassetid://92648084538735",
+      "rbxassetid://94791020869630",
+      "rbxassetid://95240399283237",
+      "rbxassetid://97511971419119",
+      "rbxassetid://98957497159204",
+      "rbxassetid://99395511558708"
+    ],
+    "unions": 6,
+    "instances": 105
+  },
+  "source_integrity": {
+    "originals_unchanged": true,
+    "passed": true,
+    "checked": "BasePart CFrame, Size, Color"
+  },
+  "display_gap_studs": 0.01,
+  "status": "verified_local",
+  "mesh_qa": {
+    "editableMeshesDestroyed": true,
+    "cane": {
+      "vertices": 6661,
+      "meshes": 19,
+      "faces": 4176
+    },
+    "badFaceUV": 0,
+    "singleAssets": [
+      {
+        "vertices": 175,
+        "name": "01_Candy_Wrapped",
+        "faces": 68
+      },
+      {
+        "vertices": 156,
+        "name": "02_Candy_Unwrapped",
+        "faces": 92
+      },
+      {
+        "vertices": 1550,
+        "name": "03_Lollipop",
+        "faces": 1212
+      },
+      {
+        "vertices": 1286,
+        "name": "04_CandyPack_Chocolate_Donut",
+        "faces": 536
+      },
+      {
+        "vertices": 2484,
+        "name": "13_Cloud_Rounded",
+        "faces": 854
+      },
+      {
+        "vertices": 2480,
+        "name": "14_Cloud_Tall",
+        "faces": 854
+      },
+      {
+        "vertices": 2447,
+        "name": "15_Cloud_Long",
+        "faces": 854
+      }
+    ],
+    "degenerate": 0,
+    "uniqueFaces": 8646,
+    "notOriginal": 0,
+    "instances": 45,
+    "bones": 0,
+    "invalidUV": 0,
+    "uniqueMeshes": 26,
+    "uniqueVertices": 17239,
+    "renderedVertices": 23900,
+    "failures": [],
+    "invalidPosition": 0,
+    "renderedFaces": 12822
+  },
+  "triangles": 19074,
+  "created": "2026-10-23",
+  "triangle_count_basis": {
+    "total": 19074,
+    "csg": "6252 triangles from original asset metadata",
+    "meshParts": "12822 triangles measured by EditableMesh"
+  },
+  "clean_static": {
+    "touch": false,
+    "collision": false,
+    "no_bones": true,
+    "no_scripts": true,
+    "anchored": true,
+    "passed": true,
+    "no_asmr_tags": true
+  },
+  "static": true,
+  "asset_baseparts": 51,
+  "objects": [
+    {
+      "source_triangles": 68,
+      "name": "01_Candy_Wrapped",
+      "label": "Конфета в обёртке",
+      "texture_mode": "source UV image texture",
+      "kind": "wrapped",
+      "source_path": "Workspace.Candy_pack.Candy29",
+      "parts": 1
+    },
+    {
+      "source_triangles": 92,
+      "name": "02_Candy_Unwrapped",
+      "label": "Леденец без обёртки",
+      "texture_mode": "source UV image texture",
+      "kind": "unwrapped",
+      "source_path": "Workspace.Candy_pack.Candyred11",
+      "parts": 1
+    },
+    {
+      "source_triangles": 1212,
+      "name": "03_Lollipop",
+      "label": "Чупа-чупс",
+      "texture_mode": "source UV image texture",
+      "kind": "lollipop",
+      "source_path": "Workspace.Candy_pack.Lolipop1",
+      "parts": 1
+    },
+    {
+      "source_triangles": 536,
+      "name": "04_CandyPack_Chocolate_Donut",
+      "label": "Шоколадный пончик • Candy",
+      "texture_mode": "source UV image texture",
+      "kind": "donut",
+      "source_path": "Workspace.Candy_pack.ExtraChocolateyDonutEarringsGiver1",
+      "parts": 1
+    },
+    {
+      "source_triangles": 4176,
+      "name": "05_Candy_Cane_Red",
+      "label": "Карамель • красная",
+      "texture_mode": "source UV image texture",
+      "kind": "cane_red",
+      "source_path": "Workspace.Candy_pack.Part20",
+      "parts": 19
+    },
+    {
+      "source_triangles": 4176,
+      "name": "06_Candy_Cane_Pink",
+      "label": "Карамель • розовая",
+      "texture_mode": "source UV image texture",
+      "kind": "cane_pink",
+      "source_path": "Workspace.Candy_pack.Part20",
+      "parts": 19
+    },
+    {
+      "source_triangles": 1106,
+      "name": "07_IceCream_Pink",
+      "label": "Мороженое • розовое",
+      "texture_mode": "native CSG per-face color",
+      "kind": "dessert",
+      "source_path": "Workspace.ASMR_All_Assets_V3.Assets.ASMR.IceCreamPink.Visuals.Visual",
+      "parts": 1
+    },
+    {
+      "source_triangles": 1106,
+      "name": "08_IceCream_Vanilla",
+      "label": "Мороженое • белое",
+      "texture_mode": "native CSG per-face color",
+      "kind": "dessert",
+      "source_path": "Workspace.ASMR_All_Assets_V3.Assets.ASMR.IceCreamVanilla.Visuals.Visual",
+      "parts": 1
+    },
+    {
+      "source_triangles": 1454,
+      "name": "09_Cupcake_Pink",
+      "label": "Пирожное • розовое",
+      "texture_mode": "native CSG per-face color",
+      "kind": "dessert",
+      "source_path": "Workspace.ASMR_All_Assets_V3.Assets.ASMR.PinkCupcake.Visuals.Visual",
+      "parts": 1
+    },
+    {
+      "source_triangles": 1298,
+      "name": "10_Cake_Cream",
+      "label": "Пирожное • белое",
+      "texture_mode": "native CSG per-face color",
+      "kind": "dessert",
+      "source_path": "Workspace.ASMR_All_Assets_V3.Assets.ASMR.CreamCake.Visuals.Visual",
+      "parts": 1
+    },
+    {
+      "source_triangles": 644,
+      "name": "11_Donut_Chocolate",
+      "label": "Пончик • шоколадный",
+      "texture_mode": "native CSG per-face color",
+      "kind": "dessert",
+      "source_path": "Workspace.ASMR_All_Assets_V3.Assets.ASMR.DonutChocolate.Visuals.Visual",
+      "parts": 1
+    },
+    {
+      "source_triangles": 644,
+      "name": "12_Donut_Pink",
+      "label": "Пончик • розовый",
+      "texture_mode": "native CSG per-face color",
+      "kind": "dessert",
+      "source_path": "Workspace.ASMR_All_Assets_V3.Assets.ASMR.DonutPink.Visuals.Visual",
+      "parts": 1
+    },
+    {
+      "source_triangles": 854,
+      "name": "13_Cloud_Rounded",
+      "label": "Облако • округлое",
+      "texture_mode": "source UV image texture",
+      "kind": "cloud",
+      "source_path": "Workspace.Candy_pack.Pinkcloud2",
+      "parts": 1
+    },
+    {
+      "source_triangles": 854,
+      "name": "14_Cloud_Tall",
+      "label": "Облако • высокое",
+      "texture_mode": "source UV image texture",
+      "kind": "cloud",
+      "source_path": "Workspace.Candy_pack.Pinkcloud14",
+      "parts": 1
+    },
+    {
+      "source_triangles": 854,
+      "name": "15_Cloud_Long",
+      "label": "Облако • вытянутое",
+      "texture_mode": "source UV image texture",
+      "kind": "cloud",
+      "source_path": "Workspace.Candy_pack.Pinkcloud16",
+      "parts": 1
+    }
+  ],
+  "name": "Candy_Static_Decor_Pack",
+  "asset_count": 15,
+  "limitations": [
+    "Roblox MeshId and TextureID dependencies are retained; asset ownership/permissions in another target experience have not been changed or tested.",
+    "Desserts retain native colored CSG geometry rather than external image maps.",
+    "No decimation was applied to visible source geometry, to retain its silhouette and UVs."
+  ],
+  "schema_version": 1,
+  "outputs": [
+    {
+      "bytes": 175889,
+      "name": "Candy_Static_Decor_Pack.rbxm",
+      "sha256": "5146e78411c642248403d475e642bd6b0ae1a9e691a0193d369a73c541b20ef9"
+    },
+    {
+      "bytes": 184812,
+      "name": "Candy_Static_Decor_Showroom.rbxm",
+      "sha256": "4b2abfbdca2375e492ebaf266e2351ecdb4912c095641656c05d22555e19c742"
+    },
+    {
+      "bytes": 6895,
+      "name": "individual/01_Candy_Wrapped.rbxm",
+      "sha256": "19aef16376c0213b39f19a2c293ef3aa717c9e58f97d677ffbfeb2b33e3dd613"
+    },
+    {
+      "bytes": 4762,
+      "name": "individual/02_Candy_Unwrapped.rbxm",
+      "sha256": "2254527025005c327f565b0bbace4f12c8408350b3305cb9c10d115529b77ca8"
+    },
+    {
+      "bytes": 14902,
+      "name": "individual/03_Lollipop.rbxm",
+      "sha256": "acbb3ac94953126994e8cf2bb511449431c3fbaf1dd8c0ea89d8a62ddffc1774"
+    },
+    {
+      "bytes": 13596,
+      "name": "individual/04_CandyPack_Chocolate_Donut.rbxm",
+      "sha256": "d6a93fcd725f57b29a36ba5d79a7d46d3a3c087215db95354cccc20ea34a16d5"
+    },
+    {
+      "bytes": 28350,
+      "name": "individual/05_Candy_Cane_Red.rbxm",
+      "sha256": "3e120eca5a029b22020666fd013e8b470b3761725a6c5e5c866bbef04ffad17c"
+    },
+    {
+      "bytes": 28357,
+      "name": "individual/06_Candy_Cane_Pink.rbxm",
+      "sha256": "ce1bf396bc06947ec1bdcddb9b4c3642a326a2d405942ebbfaaaf8a46df2196c"
+    },
+    {
+      "bytes": 29242,
+      "name": "individual/07_IceCream_Pink.rbxm",
+      "sha256": "b4a505c62a6a6a81d8df9ad7cda26c2b326b455cd3e7384384497d4d299b1918"
+    },
+    {
+      "bytes": 29247,
+      "name": "individual/08_IceCream_Vanilla.rbxm",
+      "sha256": "47c458144f1af2d9b22876019b6d2e673ffb87a8f334de60d875d92a42825222"
+    },
+    {
+      "bytes": 36260,
+      "name": "individual/09_Cupcake_Pink.rbxm",
+      "sha256": "097ccc3c6ebe152d06d0f10e74534102feeb19d51f0d6c23b36d22ddff7ddb34"
+    },
+    {
+      "bytes": 31332,
+      "name": "individual/10_Cake_Cream.rbxm",
+      "sha256": "a0bb7f94890f006e5fd95128c19e6d8bfb7d307f852d9e6eabe6b44b0d4881bb"
+    },
+    {
+      "bytes": 20666,
+      "name": "individual/11_Donut_Chocolate.rbxm",
+      "sha256": "efdf9aeee1727ce5409bc41d56d2b7e00ac9063e4a40bfb028ddb6425d560854"
+    },
+    {
+      "bytes": 20809,
+      "name": "individual/12_Donut_Pink.rbxm",
+      "sha256": "e532d85736bf41d8e5b300716127e11e4d16d9b0c66cdcdf217e75e686f965b2"
+    },
+    {
+      "bytes": 12485,
+      "name": "individual/13_Cloud_Rounded.rbxm",
+      "sha256": "708f1ecbd11c327e53a50aac24153be93903e44620e3cccb5ab3017a1caa2436"
+    },
+    {
+      "bytes": 13185,
+      "name": "individual/14_Cloud_Tall.rbxm",
+      "sha256": "b31abf809fe01c123670a7bd238ab2b372553afc0863a65610a98681bc76c052"
+    },
+    {
+      "bytes": 13458,
+      "name": "individual/15_Cloud_Long.rbxm",
+      "sha256": "fea3463c48ca59aefcab72e9c9b7c8958dd6f23d773e7c601116314aa13495a8"
+    }
+  ],
+  "roundtrip": {
+    "method": "SerializationService Serialize/Deserialize",
+    "transforms_exact": true,
+    "scope": "native hierarchy, MeshPart and CSG counts, mesh/image IDs, no scripts/bones",
+    "passed": true,
+    "parts_compared": 51
+  },
+  "source_files": [
+    {
+      "path": "D:\\ROBLOX\\Asset_Packs\\3d_Models\\Chocolat_pack\\Chocolat_pack\\Candy_pack.obj",
+      "sha256": "cfff589e6ddf75df3ee76cf0f499b0bd751acce7ab9b45691a1bc1910c7a1f66",
+      "source_unchanged": true
+    },
+    {
+      "path": "D:\\ROBLOX\\Asset_Packs\\3d_Models\\Chocolat_pack\\Chocolat_pack\\Candy_pack.mtl",
+      "sha256": "4d93543215fefbb7830b89a623ad04a65ea96b9c82ad988868eac2a31ff4b4c9",
+      "source_unchanged": true
+    }
+  ],
+  "textures": [
+    {
+      "file": "textures/Candy11_diff.png",
+      "sha256": "c346d6a0ed3e6c273ac98832bf6088b6accca064f7fff3ac55ffc49e8179cbd9"
+    },
+    {
+      "file": "textures/Candy21_diff.png",
+      "sha256": "f184397adbc1acee4f92e6862c23ec05f29d92343c1e7bb9f291d60de299ef9b"
+    },
+    {
+      "file": "textures/Candyred11_diff.png",
+      "sha256": "81e526cf31aa48ccb2e19a9f89785c828bcdc6851699b5e4f4b0469653985274"
+    },
+    {
+      "file": "textures/ExtraChocolateyDonutEarringsGiver1_diff.png",
+      "sha256": "e9bb0f0e39b64555b611bec237bcf01dedd74c91a5ab662c2b77ca3791f23799"
+    },
+    {
+      "file": "textures/Head1_diff.png",
+      "sha256": "a4fc6b399a94f84ad6beca494d4f410b08f1caa66432bb48c112594fef309e18"
+    },
+    {
+      "file": "textures/Head1_nmap.png",
+      "sha256": "673c622f4b0cb697c81eedf54874454b29e2dcbfac1414d82b5dc7fc64e41a04"
+    },
+    {
+      "file": "textures/Head2_diff.png",
+      "sha256": "48f719aa22910fc5211f765ae3cc52db8769f422acf924e26260cdeb507daf2b"
+    },
+    {
+      "file": "textures/Lolipop1_diff.png",
+      "sha256": "74974f1644fe97814f652b84bc86c107f3568009db073913a21ddfec495516f1"
+    },
+    {
+      "file": "textures/Part1_diff.png",
+      "sha256": "c19d22f38113b019272d3b24514e332d8b937c1a587e2e072ebe4d2f2af24a52"
+    },
+    {
+      "file": "textures/Part1_nmap.png",
+      "sha256": "d9e10a6d05f449dffcb26b59c6a8cc7e04685075aeabf3ba87cfca3d0af27f8b"
+    },
+    {
+      "file": "textures/Part1_spec.png",
+      "sha256": "324c397dc491b87cd5f2482db902bce013b127a8dd5126b9a32859f1d15d5e24"
+    },
+    {
+      "file": "textures/Pinkcloud1_diff.png",
+      "sha256": "6cf0eae2d1c8c6a2d608d31772eff6d62f530b76c1fb92cdc491bdf64378a136"
+    },
+    {
+      "file": "textures/Pinkcloud2_diff.png",
+      "sha256": "ed281e7c65ca2abb2fb5b926cc1caf833d0441e743ef2bc84c75d46daecb7b97"
+    },
+    {
+      "file": "textures/Sphere1_diff.png",
+      "sha256": "63a0221c88abafa74ca5469dfdc27927a76fbc71a3cb772236ef7427987168a2"
+    },
+    {
+      "file": "textures/Sphere1_nmap.png",
+      "sha256": "39bb1342903192a1d674a66773a31665b3e19103b3d72a4006f17be7cf1f7c17"
+    },
+    {
+      "file": "textures/Sphere1_spec.png",
+      "sha256": "f618459bf2f2e238955720ef5904b8396b1e4d0e79e8a5e5e533337cd579d965"
+    }
+  ],
+  "source_mtl_note": "Candy_pack.original.mtl is the unchanged source. Candy_pack.mtl only redirects image paths to ../textures/."
+}

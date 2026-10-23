@@ -1,0 +1,238 @@
+newmtl ExtraChocolateyDonutEarringsGiver1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0234425 0.0231273 0.02408 
+
+d 1
+
+Ns 0
+
+map_Ka ../textures/ExtraChocolateyDonutEarringsGiver1_diff.png
+map_Kd ../textures/ExtraChocolateyDonutEarringsGiver1_diff.png
+map_d ../textures/ExtraChocolateyDonutEarringsGiver1_diff.png
+newmtl Candy21Mtl
+Material Color
+Ka 0 1 1
+Kd 0 1 1
+Ks 0 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka ../textures/Candy21_diff.png
+map_Kd ../textures/Candy21_diff.png
+map_d ../textures/Candy21_diff.png
+newmtl Head1Mtl
+Material Color
+Ka 0.20471 0.106156 0.0581872
+Kd 0.20471 0.106156 0.0581872
+Ks 0.0128446 0.00666077 0.00365096 
+
+d 1
+
+Ns 0
+
+map_Ka ../textures/Head1_diff.png
+map_Kd ../textures/Head1_diff.png
+map_d ../textures/Head1_diff.png
+map_Bump ../textures/Head1_nmap.png
+newmtl Sphere13Mtl
+Material Color
+Ka 0 0.56681 0
+Kd 0 0.56681 0
+Ks 0 0.0200051 0 
+
+d 1
+
+Ns 0
+
+map_Ka ../textures/Sphere1_diff.png
+map_Kd ../textures/Sphere1_diff.png
+map_d ../textures/Sphere1_diff.png
+map_Bump ../textures/Sphere1_nmap.png
+map_Ns ../textures/Sphere1_spec.png
+newmtl Head2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka ../textures/Head2_diff.png
+map_Kd ../textures/Head2_diff.png
+map_d ../textures/Head2_diff.png
+newmtl Sphere1Mtl
+Material Color
+Ka 1 0.186989 0
+Kd 1 0.186989 0
+Ks 0.0352941 0.00659959 0 
+
+d 1
+
+Ns 0
+
+map_Ka ../textures/Sphere1_diff.png
+map_Kd ../textures/Sphere1_diff.png
+map_d ../textures/Sphere1_diff.png
+map_Bump ../textures/Sphere1_nmap.png
+map_Ns ../textures/Sphere1_spec.png
+newmtl Sphere3Mtl
+Material Color
+Ka 1 0.133209 0
+Kd 1 0.133209 0
+Ks 0.0352941 0.00470148 0 
+
+d 1
+
+Ns 0
+
+map_Ka ../textures/Sphere1_diff.png
+map_Kd ../textures/Sphere1_diff.png
+map_d ../textures/Sphere1_diff.png
+map_Bump ../textures/Sphere1_nmap.png
+map_Ns ../textures/Sphere1_spec.png
+newmtl Sphere8Mtl
+Material Color
+Ka 1 0 0
+Kd 1 0 0
+Ks 0.0352941 0 0 
+
+d 1
+
+Ns 0
+
+map_Ka ../textures/Sphere1_diff.png
+map_Kd ../textures/Sphere1_diff.png
+map_d ../textures/Sphere1_diff.png
+map_Bump ../textures/Sphere1_nmap.png
+map_Ns ../textures/Sphere1_spec.png
+newmtl Candy11Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0161167 0.0159 0.016555 
+
+d 1
+
+Ns 0
+
+map_Ka ../textures/Candy11_diff.png
+map_Kd ../textures/Candy11_diff.png
+map_d ../textures/Candy11_diff.png
+newmtl Lolipop1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0234425 0.0231273 0.02408 
+
+d 1
+
+Ns 0
+
+map_Ka ../textures/Lolipop1_diff.png
+map_Kd ../textures/Lolipop1_diff.png
+map_d ../textures/Lolipop1_diff.png
+newmtl Candyred11Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0234425 0.0231273 0.02408 
+
+d 1
+
+Ns 0
+
+map_Ka ../textures/Candyred11_diff.png
+map_Kd ../textures/Candyred11_diff.png
+map_d ../textures/Candyred11_diff.png
+newmtl Pinkcloud1Mtl
+Material Color
+Ka 1 0.320382 0.722672
+Kd 1 0.320382 0.722672
+Ks 0.0627451 0.0201024 0.0453442 
+
+d 1
+
+Ns 0
+
+map_Ka ../textures/Pinkcloud1_diff.png
+map_Kd ../textures/Pinkcloud1_diff.png
+map_d ../textures/Pinkcloud1_diff.png
+newmtl Pinkcloud2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka ../textures/Pinkcloud2_diff.png
+map_Kd ../textures/Pinkcloud2_diff.png
+map_d ../textures/Pinkcloud2_diff.png
+newmtl Part1Mtl
+Material Color
+Ka 0.940601 0.940601 0.940601
+Kd 0.940601 0.940601 0.940601
+Ks 0.0405749 0.0405749 0.0405749 
+
+d 1
+
+Ns 0
+
+map_Ka ../textures/Part1_diff.png
+map_Kd ../textures/Part1_diff.png
+map_d ../textures/Part1_diff.png
+map_Bump ../textures/Part1_nmap.png
+map_Ns ../textures/Part1_spec.png
+newmtl Part2Mtl
+Material Color
+Ka 1 0 0
+Kd 1 0 0
+Ks 0.0431373 0 0 
+
+d 1
+
+Ns 0
+
+map_Ka ../textures/Part1_diff.png
+map_Kd ../textures/Part1_diff.png
+map_d ../textures/Part1_diff.png
+map_Bump ../textures/Part1_nmap.png
+map_Ns ../textures/Part1_spec.png
+newmtl Sphere19Mtl
+Material Color
+Ka 0.000638183 0.254916 0.632043
+Kd 0.000638183 0.254916 0.632043
+Ks 2.25241e-05 0.00899703 0.0223074 
+
+d 1
+
+Ns 0
+
+map_Ka ../textures/Sphere1_diff.png
+map_Kd ../textures/Sphere1_diff.png
+map_d ../textures/Sphere1_diff.png
+map_Bump ../textures/Sphere1_nmap.png
+map_Ns ../textures/Sphere1_spec.png
+newmtl Sphere23Mtl
+Material Color
+Ka 1 0.133209 0.612066
+Kd 1 0.133209 0.612066
+Ks 0.0352941 0.00470148 0.0216023 
+
+d 1
+
+Ns 0
+
+map_Ka ../textures/Sphere1_diff.png
+map_Kd ../textures/Sphere1_diff.png
+map_d ../textures/Sphere1_diff.png
+map_Bump ../textures/Sphere1_nmap.png
+map_Ns ../textures/Sphere1_spec.png
